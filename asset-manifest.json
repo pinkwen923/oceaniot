@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.aac70fff.css",
-    "main.js": "/static/js/main.48de7295.js",
+    "main.css": "/static/css/main.54e8c215.css",
+    "main.js": "/static/js/main.0aaecaa9.js",
     "static/js/787.3f78d9cc.chunk.js": "/static/js/787.3f78d9cc.chunk.js",
     "static/media/nanlong.mp4": "/static/media/nanlong.2f23344f77574fd87a0e.mp4",
     "static/media/meinong.mp4": "/static/media/meinong.857807acf1889e97152b.mp4",
     "static/media/sixturtle.mp4": "/static/media/sixturtle.85de44591d019b45b5d6.mp4",
+    "static/media/RFID.png": "/static/media/RFID.3348f345af535c55a7f5.png",
+    "static/media/4合13.png": "/static/media/4合13.059b5b5e31d6a4dd2fe5.png",
     "static/media/雷雕1.jpg": "/static/media/雷雕1.20b9c8a9f3e9468fc4aa.jpg",
+    "static/media/點播.png": "/static/media/點播.2ec823cd137b3a413d17.png",
     "static/media/雷雕5.jpg": "/static/media/雷雕5.8ed551522dfb86496b23.jpg",
     "static/media/雷雕7.jpg": "/static/media/雷雕7.8434a9f10bb201eb0d9b.jpg",
     "static/media/雷雕4.jpg": "/static/media/雷雕4.431b7702806d8af44fbc.jpg",
@@ -960,11 +963,13 @@
     "static/media/LINE_ALBUM_20231105 科普活動_231112_62.jpg": "/static/media/LINE_ALBUM_20231105 科普活動_231112_62.d7757dd2526c37c6a065.jpg",
     "static/media/LINE_ALBUM_20231105 科普活動_231112_63.jpg": "/static/media/LINE_ALBUM_20231105 科普活動_231112_63.12cb9757ba7961c48f3f.jpg",
     "static/media/LINE_ALBUM_20231201 六龜高中_231219_1.jpg": "/static/media/LINE_ALBUM_20231201 六龜高中_231219_1.40700b2a5446a7cd5b40.jpg",
+    "static/media/藍芽音箱.jpg": "/static/media/藍芽音箱.a8f5f27485d6d1e8919d.jpg",
     "static/media/廖奕雯.jpg": "/static/media/廖奕雯.972f8d264f311e03274b.jpg",
     "static/media/NKUST.png": "/static/media/NKUST.e1afe62cc2a22d8ba8ef.png",
     "static/media/IYBSSD.png": "/static/media/IYBSSD.2df4f7b9b98cee1c4879.png",
     "static/media/利錫雨.jpg": "/static/media/利錫雨.496c1e0eb8673a40056b.jpg",
     "static/media/林思妤.jpg": "/static/media/林思妤.c71c7e49cfaff6a32929.jpg",
+    "static/media/打地鼠.jpg": "/static/media/打地鼠.d044221fc678ddb1c2fd.jpg",
     "static/media/回怡雯.jpg": "/static/media/回怡雯.075cd510669c6ea1bc41.jpg",
     "static/media/海報2.jpg": "/static/media/海報2.9a984640d625454252fe.jpg",
     "static/media/oceanIOT.jpg": "/static/media/oceanIOT.27e4345d9afa40482336.jpg",
@@ -975,12 +980,12 @@
     "static/media/photo.png": "/static/media/photo.f17ebac57e628232500e.png",
     "static/media/video.png": "/static/media/video.b10042f4e684df2aa55b.png",
     "index.html": "/index.html",
-    "main.aac70fff.css.map": "/static/css/main.aac70fff.css.map",
-    "main.48de7295.js.map": "/static/js/main.48de7295.js.map",
+    "main.54e8c215.css.map": "/static/css/main.54e8c215.css.map",
+    "main.0aaecaa9.js.map": "/static/js/main.0aaecaa9.js.map",
     "787.3f78d9cc.chunk.js.map": "/static/js/787.3f78d9cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aac70fff.css",
-    "static/js/main.48de7295.js"
+    "static/css/main.54e8c215.css",
+    "static/js/main.0aaecaa9.js"
   ]
 }
